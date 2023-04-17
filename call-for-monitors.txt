@@ -8,12 +8,9 @@ Processing (NLP). The school hosts around 200 students selected from
 more than 500 applicants from around the world and enjoys top
 lecturers in machine learning from academia and industry.
 
-LxMLS i2023 will take place from July 14th to July 20th. 
-You can find more information at http://lxmls.it.pt/
-
 We are looking for candidates to take following responsibilities
 
-- Master the LxMLS lab guide and code. See last year's guide as reference 
+- Master the LxMLS lab guide and code. See last year's guide as reference
   http://lxmls.it.pt/2022/documents/LxMLS_guide_2022.pdf
 
 - Tutor students during the labs sessions explaining exercises and solving the
@@ -37,14 +34,24 @@ Interested candidates should send an email with subject "Monitor
 Application" to ramon@astudillo.com with a Curriculum Vitae as well as following
 information
 
-- Brief description of why you want to join 
+- Brief description of why you want to join
 - Indication of whether you have attended any past edition of LxMLS as student
 - Indication of whether you need to apply to the travel and lodging grants
+- *New*: We are considering an additional core-member grant (additive to the
+  travel grant) to work on a focused topic. This year: adding Transformer
+  exercises for the labs corresponding to Kyunghyun Cho's lecture.
 - (Optional) Recommendation emails. These can be sent to the same address.
 
 Previous years monitors only need to send a CV and indicate if they are applying
-to the travel and lodging grants
+to the travel and lodging grants an/ord the core-member grant
 
-Application Deadline: June 2nd
-Decision: June 9th
+Important Dates
+---------------
+* Monitor Application Deadline: May 4, 2023
+* Notification of Admission: May 12, 2023
+* (Registration is automatic for accepted monitors)
+* Summer School: July 14 - 20, 2023 (arriving a day before is better)
+
+Check this years details at lxmls.it.pt/2023/
+
 =====================================================
